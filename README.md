@@ -1,4 +1,4 @@
-Welcome to the CTF Challenge! Here begins your journey into the world of GIT
+ Welcome to the CTF Challenge! Here begins your journey into the world of GIT
 
 /\  ___________.__                   ___________              __    _______________   ________    _____                          
 \ \ \_   _____/|  | _____     ____   \_   _____/___   _______/  |_  \_____  \   _  \  \_____  \  /  |  |     ____ ___  ___ ____  

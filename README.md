@@ -6,3 +6,6 @@
   \ \|     \   |  |__/ __ \_/ /_/  >  |     \\  ___/ \___ \  |  |   /       \  \_/   \/       \/    ^   /  \  ___/ >    <\  ___/ 
 /\ \ \___  /   |____(____  /\___  /   \___  / \___  >____  > |__|   \_______ \_____  /\_______ \____   | /\ \___  >__/\_ \\___  >
 \/  \/   \/              \//_____/        \/      \/     \/                 \/     \/         \/    |__| \/     \/      \/    \/ 
+
+
+NB: The flag is broken and scattered all around. But no one knows how many pieces are there. They are yet to be found.
